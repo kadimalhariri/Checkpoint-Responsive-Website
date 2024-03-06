@@ -146,6 +146,9 @@ nav i {
     background-color: #669FE9;
     color: whitesmoke;
     border: none;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
 }
 .contact {
     background-color: #0370EC;
